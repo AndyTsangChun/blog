@@ -9,16 +9,20 @@ tags: TensorFlow Python ML Regression Supervised-Learning
 * content
 {:toc}
 
-So, what is Linear Regression?<br>
+##So, what is Linear Regression?<br>
 In short, **Linear Regression** is one of the basic supervised machine learning model to describle two or more variables.<br>
 Equation of simple linear model:
 <p align="center">
-	h_w(x) = w*x + b
+	$$h_w(x) = w * x + b$$
 </p>
 Where **h** is the hypothesis/prediction/output(**y**), **x** is the data/feature(**n**). Meanwhile, **w** and **b** are called Weight and Basis respectively, these are the parameters that the model have to learn. In maths, **a** is also known as "slope"/"gradient" and b is "intercept".
 
 So what happen when we have more than one feature(independent variables)?
 For instance given a set of data (Restaurant Review):
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 <p align="center">
 | Waiting Time | Avg Cost £ | Review |
 | ------------ | ---------- | ------ |
