@@ -1,13 +1,3 @@
-| Waiting Time | Avg Cost £ | Review |
-| ------------ | ---------- | ------ |
-|      5       |     12     |    8   |
-|      9       |     18     |    7   |
-|     20       |     22     |    6   |
-|     10       |     20     |   8.5  |
-|      1       |      8     |    7   |
-|     30       |     10     |    5   |
-|     40       |     50     |    3   |
-
 # About this Cool Concise Jekyll Blog Theme 🤘🤘🤘
 
 [![GitHub stars](https://img.shields.io/github/stars/Gaohaoyang/gaohaoyang.github.io.svg)](https://github.com/Gaohaoyang/gaohaoyang.github.io/stargazers)
