@@ -19,15 +19,15 @@ Where **h** is the hypothesis/prediction/output(**y**), **x** is the data/featur
 
 So what happen when we have more than one feature(independent variables)?
 For instance given a set of data (Restaurant Review):
-	| Waiting Time | Avg Cost £ | Review |
-	| ------------ | ---------- | ------ |
-	|      5       |     12     |    8   |
-	|      9       |     18     |    7   |
-	|     20       |     22     |    6   |
-	|     10       |     20     |   8.5  |
-	|      1       |      8     |    7   |
-	|     30       |     10     |    5   |
-	|     40       |     50     |    3   |
+| Waiting Time | Avg Cost £ | Review |
+| ------------ | ---------- | ------ |
+|      5       |     12     |    8   |
+|      9       |     18     |    7   |
+|     20       |     22     |    6   |
+|     10       |     20     |   8.5  |
+|      1       |      8     |    7   |
+|     30       |     10     |    5   |
+|     40       |     50     |    3   |
 
 The linear function is reprsented as follow:
 <p align="center">
