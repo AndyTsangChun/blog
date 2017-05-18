@@ -20,6 +20,10 @@ Where **h** is the hypothesis/prediction/output(**y**), **x** is the data/featur
 So what happen when we have more than one feature(independent variables)?<br>
 For instance given a set of data (Restaurant Review):
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 <p align="center">
 
