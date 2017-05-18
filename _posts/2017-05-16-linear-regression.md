@@ -20,13 +20,6 @@ Where **h** is the hypothesis/prediction/output(**y**), **x** is the data/featur
 So what happen when we have more than one feature(independent variables)?<br>
 For instance given a set of data (Restaurant Review):
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-<p align="center">
-
 | Waiting Time | Avg Cost £ | Review |
 | ------------- | ------------- | ------------- |
 | 5 | 12 | 8 |
@@ -37,7 +30,6 @@ For instance given a set of data (Restaurant Review):
 | 30 | 10 | 5 |
 | 40 | 50 | 3 |
 
-</p>
 The linear function is reprsented as follow:
 <p align="center">
 	> h_w(x) = w_1 * x_1 + ... + w_n * x_n + b <br><br>
