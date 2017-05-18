@@ -12,7 +12,7 @@ tags: TensorFlow Python ML Regression Supervised-Learning
 ## So, what is Linear Regression?<br>
 In short, **Linear Regression** is one of the basic supervised machine learning model to describle two or more variables.<br>
 Equation of simple linear model:<br>
->$$h_w(x) = w * x + b$$ 
+>h_w(x) = w * x + b
 
 <br>
 Where **h** is the hypothesis/prediction/output(**y**), **x** is the data/feature(**n**). Meanwhile, **w** and **b** are called Weight and Basis respectively, these are the parameters that the model have to learn. In maths, **a** is also known as "slope"/"gradient" and b is "intercept".
